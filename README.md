@@ -1,4 +1,4 @@
-# Week2
+# Week-2
 Dataset link : https://www.kaggle.com/datasets/techsash/waste-classification-data/data
 
 waste-classification-cnn/ ├── main.py # The main Python script ├── README.md # Project documentation └── dataset # Import using kaggle
